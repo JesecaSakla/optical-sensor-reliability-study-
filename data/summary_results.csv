@@ -1,0 +1,6 @@
+condition,mean_raw_ir_au,standard_deviation_au,range_au,invalid_unstable_count
+Baseline,593.66,22.66,151,2
+Motion,306.83,13.08,69,3
+Loose Contact,78571.48,48943.88,130209,6
+Ambient Light,332.03,35.64,150,10
+Environmental,400.81,1320.5,11920,21
