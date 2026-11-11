@@ -52,7 +52,7 @@ The archived project materials preserve the final condition-level summary result
 
 ## Project context
 
-This work was completed as a final project through Johns Hopkins Biomedical Engineering Innovation. Course instructors and teaching staff provided guidance and feedback during the project. The repository is a portfolio archive of the completed work and is not presented as an independent or peer-reviewed study.
+This work was completed as a final project through Johns Hopkins Biomedical Engineering Innovation, with guidance and feedback from course instructors and teaching staff. This repository preserves the completed project as a technical portfolio.
 
 ## References
 
